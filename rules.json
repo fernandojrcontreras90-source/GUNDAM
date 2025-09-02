@@ -1,0 +1,7 @@
+{
+  "banned_cards": ["Shamblo"],
+  "win_conditions": ["reduce opponent HP to 0", "deck out"],
+  "special_rules": {
+    "Unicorn Gundam": "Can switch modes once per turn"
+  }
+}
